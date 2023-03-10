@@ -1,4 +1,6 @@
 <?php 
+// untuk menangani error
+error_reporting(0);
 // array numerik
 $domisili = ["Jakarta", "Bogor", "Depok", "Tangerang", "Bekasi"];
 // array asosiatif (indeksnya bisa kita ubah sendiri)
